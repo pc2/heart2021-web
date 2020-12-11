@@ -34,9 +34,11 @@ PhD students working in areas relevant to HEART 2021 are solicited to submit an 
 
 ## Important Dates and Deadlines
 
-* Paper submission (all categories): **March 8, 2020 AOE (extended)**
-* Acceptance notification: **April 10, 2020 (extended)**
-* Final paper submission: **April 24, 2020**
-* HEART pre-symposium workshops/tutorials: **June 17, 2020**
-* HEART symposium: **June 18-19, 2020**
+* Paper submission (all categories): **TBD**
+* Acceptance notification: **TBD**
+* Final paper submission: **TBD**
 
+<!--
+* HEART pre-symposium workshops/tutorials: **June 17, 2020**
+* HEART symposium: **June , 2020**
+-->

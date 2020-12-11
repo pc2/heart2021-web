@@ -6,10 +6,9 @@ nav:
         - Call for Papers: cfp.md
         - Committees: committee.md
         - Submission: submission.md
-        - Program: program.md
-        - Keynote Speakers: keyspeaker.md
-        - Tutorials: tutorials.md
-        - Venue: venue.md
+#        - Program: program.md
+#        - Keynote Speakers: keyspeaker.md
+#        - Tutorials: tutorials.md
         - Contact: contact.md
         - Site notice: impressum.md  
 

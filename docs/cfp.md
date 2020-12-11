@@ -1,6 +1,6 @@
 # Call for Papers
 
-The International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART) is a forum to present and discuss new research on computing systems utilizing acceleration technology. The main theme of HEART is achieving high efficiency with accelerators, which is of utmost importance across a wide spectrum of computing systems. In the high performance computing and data center domains, high efficiency mostly relates to performance, while in the mobile and IoT space research communities think about accelerators more from a power/energy perspective. HEART 2020 will focus on high efficiency as a cross-cutting issue and asks for contributions in the following areas:
+The International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART) is a forum to present and discuss new research on computing systems utilizing acceleration technology. The main theme of HEART is achieving high efficiency with accelerators, which is of utmost importance across a wide spectrum of computing systems. In the high performance computing and data center domains, high efficiency mostly relates to performance, while in the mobile and IoT space research communities think about accelerators more from a power/energy perspective. HEART 2021 will focus on high efficiency as a cross-cutting issue and asks for contributions in the following areas:
 
 ## Architectures for Efficient Acceleration
 
@@ -21,7 +21,7 @@ The International Symposium on Highly Efficient Accelerators and Reconfigurable 
 * Complete systems demonstrating increased energy efficiency and/or performance
 * Comparisons between accelerator technologies
 
-In order to set a basis for discussions on the cross-cutting nature of acceleration technology, HEART 2020 will feature two special sessions on highly efficient accelerators in the domains of
+In order to set a basis for discussions on the cross-cutting nature of acceleration technology, HEART 2021 will feature two special sessions on highly efficient accelerators in the domains of
 
 * High-performance Computing / Data Center / Cloud
 * Mobile Systems / Edge Computing / Internet of Things 
@@ -30,7 +30,7 @@ Prospective authors are invited to submit original contributions as 6-page paper
 
 ## PhD Forum
 
-PhD students working in areas relevant to HEART 2020 are solicited to submit an extended abstract of up to 2 pages comprising a summary of their research findings, work in progress and/or planned research. The PhD Forum is intended as a platform for PhD students to interact with peers as well as experienced researchers. The forum will be organized as a poster session and will include a 5 minutes oral introduction by each student. The PhD student should be the first author, thesis advisors may be coauthors. Submission will be reviewed to ensure quality and relevance.  Authors of accepted submissions are expected to attend HEART 2020 and present their poster. The accepted extended abstracts will also appear in the conference proceedings.
+PhD students working in areas relevant to HEART 2021 are solicited to submit an extended abstract of up to 2 pages comprising a summary of their research findings, work in progress and/or planned research. The PhD Forum is intended as a platform for PhD students to interact with peers as well as experienced researchers. The forum will be organized as a poster session and will include a 5 minutes oral introduction by each student. The PhD student should be the first author, thesis advisors may be coauthors. Submission will be reviewed to ensure quality and relevance.  Authors of accepted submissions are expected to attend HEART 2021 and present their poster. The accepted extended abstracts will also appear in the conference proceedings.
 
 ## Important Dates and Deadlines
 

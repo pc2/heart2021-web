@@ -3,18 +3,22 @@
 * **General Chair:** Christian Plessl, Paderborn University
 * **Program Co-Chair:** Paul Chow,  University of Toronto
 * **Program Co-Chair:** Marco Platzner, Paderborn University
+
+<!--
 * **Publicity Chair:** Kentaro Sano, Riken R-CCS
 * **Tutorial Chair:** Tobias Kenter, Paderborn University
 * **Special Session Chair: HPC, Data Center, Cloud:** Holger Fröning, Heidelberg University
 * **Special Session Chair: Mobile Systems / Edge Computing / Internet of Things:** Smail Niar, Université Polytechnique Hauts-de-France
+-->
 
-## Local organisation committee
+
+## Local organization committee
 
 * **Finance Chair:** Bernard Bauer
 * **Conference Secretary:** Michaela Kemper
 * **Webmaster:** Nils Winnwa
 
-## Program Committee
+## Program Committee (preliminary)
 
 * Vanderlei Bonato, University of São Paulo
 * Nick Brown, The University of Edinburgh

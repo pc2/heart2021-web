@@ -2,11 +2,10 @@
 
 ## Important Dates and Deadlines
 
-* Paper submission (all categories): **March 8, 2020 AOE (extended)**
-* Acceptance notification: **April 10, 2020 (extended)**
-* Final paper submission: **April 24, 2020**
-* HEART pre-symposium workshops/tutorials: **June 17, 2020**
-* HEART symposium: **June 18-19, 2020**
+* Paper submission (all categories): **March 15, 2020 AOE**
+* Acceptance notification: **April 19, 2021 (extended)**
+* Final paper submission: **May 17, 2021**
+* HEART symposium: **June 21-23, 2020**
 
 ## Format & anonymity
 
@@ -29,4 +28,4 @@ Accepted papers will be published in ACM post-proceedings and will appear in the
 
 ## Paper Submission
 
-[Each paper must be submitted via EasyChair](https://www.easychair.org/conferences/?conf=heart-2020)
+[Each paper must be submitted via EasyChair](https://www.easychair.org/conferences/?conf=heart-2021)

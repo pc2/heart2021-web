@@ -28,4 +28,4 @@ Accepted papers will be published in ACM post-proceedings and will appear in the
 
 ## Paper Submission
 
-[Each paper must be submitted via EasyChair](https://www.easychair.org/conferences/?conf=heart-2021)
+[Each paper must be submitted via EasyChair](https://easychair.org/conferences/?conf=heart2021)

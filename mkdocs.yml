@@ -1,0 +1,34 @@
+site_name: HEART 2021 Virtual Conference
+site_description: "HEART 2021"
+
+nav:
+        - Home: index.md
+        - Call for Papers: cfp.md
+        - Committees: committee.md
+        - Submission: submission.md
+#        - Program: program.md
+#        - Keynote Speakers: keyspeaker.md
+#        - Tutorials: tutorials.md
+        - Contact: contact.md
+        - Site notice: impressum.md  
+
+
+theme:
+        name: null
+        custom_dir: material
+        feature:
+                tabs: false
+        favicon: 'img/HEART-Logo_square_orange.ico'
+        logo: 'img/HEART-Logo_square.png'
+        language: en
+        font:
+                text: Roboto
+                code: Roboto Mono
+        palette:
+                primary: upbprimary
+                accent: upbaccent
+plugins: []
+markdown_extensions: []
+remote_branch: deployment
+
+

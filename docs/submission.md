@@ -2,7 +2,9 @@
 
 ## Important Dates and Deadlines
 
-* Paper submission (all categories): **March 15, 2021**
+** The submission/acceptance related dates below are still preliminary. The final dates will be confirmed by Februrary 5 **
+
+* Paper submission (all categories): **March 15, 2021 AOE**
 * Acceptance notification: **April 19, 2021**
 * Final paper submission: **May 17, 2021**
 * HEART symposium: **June 21-23, 2021**

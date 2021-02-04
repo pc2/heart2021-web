@@ -34,8 +34,6 @@ PhD students working in areas relevant to HEART 2021 are solicited to submit an 
 
 ## Important Dates and Deadlines
 
-** The submission/acceptance related dates below are still preliminary. The final dates will be confirmed by Februrary 5 **
-
 * Paper submission (all categories): **March 15, 2021 AOE**
 * Acceptance notification: **April 19, 2021**
 * Final paper submission: **May 17, 2021**

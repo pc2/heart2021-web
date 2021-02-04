@@ -5,6 +5,7 @@ Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
 # Latest Updates
 
+* 2021-02-04 Confirmed all submission related deadlines
 * 2020-12-13 Preliminary call for papers
 
 # Overview

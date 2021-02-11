@@ -18,16 +18,14 @@
 * **Conference Secretary:** Michaela Kemper
 * **Webmaster:** Nils Winnwa
 
-## Program Committee (preliminary)
+## Program Committee
 
 * Vanderlei Bonato, University of São Paulo
 * Nick Brown, The University of Edinburgh
 * Joao Cardoso, University of Porto
 * Sairahul Chalamalasetti, Hewlett Packard Labs
 * Paul Chow,  University of Toronto
-* Suleyman Demirsoy, Intel
 * Oliver Diessel, The University of New South Wales
-* Hal Finkel, Argonne National Laboratory
 * Diana Goehringer, TU Dresden
 * Martin Herbordt, Boston University
 * Tomonori Izumi, Ritsumeikan University
@@ -47,7 +45,5 @@
 * Dimitrios Soudris, National Technical University of Athens
 * Hideki Takase, Kyoto University
 * Minoru Watanabe, Shizuoka University
-* Stephan Wong, Delft University of Technology
 * Hayato Yamaki, The University of Electro-Communications
-* Jaehoon Yu, Tokyo Institute of Technology
 

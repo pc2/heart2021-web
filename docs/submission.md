@@ -14,9 +14,9 @@ The **maximum length of a paper** including references is 6 pages for regular pa
 All papers:
 
 * With 6 pages (including references) are considered as _regular papers_
-* With 4 pages (includeing references) are considered as _poster papers_
+* With 4 pages (including references) are considered as _poster papers_
 * **Should be prepared for double blind review**
-	* Authors should no identify themselves
+	* Authors should not identify themselves
 	* Author names, affiliations, e-mail addresses and self-references should be blanked out
 * Must be submitted electronically in PDF format (two columns, US letter size, single spacing, 10 point font for the main body text)
 * Must have at least one author with a regular registration for the manuscript to be included and published in the proceedings

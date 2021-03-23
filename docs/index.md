@@ -16,6 +16,8 @@ The International symposium on Highly Efficient Accelerators and Reconfigurable 
 
 The eleventh edition of HEART will take place as a virtual conference. The symposium will be held from June 21–23 2021.
 
+# Special Sessions
+
 In addition to the regular scientific paper sessions, HEART'21 will also feature special sessions on specific topics. So far, the following special sessions have been announced:
 
 * High-performance Computing / Data Center / Cloud

@@ -1,4 +1,9 @@
-# International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART 2021)
+<html>
+<div style="text-align:left; display:inline; overflow:auto">
+<img style="float: left; margin: 0px 0px 0px 2px; padding: 0px 5px 0px 0px" src="img/heart-online-logo.png" width=20%/>
+<h1>International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART 2021)</h1>
+</div>
+</html>
 
 Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 

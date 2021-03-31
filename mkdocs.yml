@@ -21,8 +21,8 @@ theme:
         custom_dir: material
         feature:
                 tabs: false
-        favicon: 'img/HEART-Logo_square_orange.ico'
-        logo: 'img/HEART-Logo_square.png'
+        favicon: 'img/heart-online-logo_white.ico'
+        logo: 'img/heart-online-logo_white.png'
         language: en
         font:
                 text: Roboto

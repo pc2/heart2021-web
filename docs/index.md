@@ -10,6 +10,7 @@ Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
 # Latest Updates
 
+* 2021-03-31 Third [special session](special-sessions.md) on "FPGAs for HPC: Open Challenges for Infrastructure and System Operation" announced
 * 2021-03-23 Two [special sessions](special-sessions.md) announced
 * **2021-03-15 Extended deadlines**
 * 2021-02-04 Confirmed all submission related deadlines

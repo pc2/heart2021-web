@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://heart2021.uni-paderborn.de/</loc>
-     <lastmod>2021-03-31</lastmod>
+     <lastmod>2021-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://heart2021.uni-paderborn.de/cfp/</loc>
-     <lastmod>2021-03-31</lastmod>
+     <lastmod>2021-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://heart2021.uni-paderborn.de/committee/</loc>
-     <lastmod>2021-03-31</lastmod>
+     <lastmod>2021-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://heart2021.uni-paderborn.de/submission/</loc>
-     <lastmod>2021-03-31</lastmod>
+     <lastmod>2021-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://heart2021.uni-paderborn.de/special-sessions/</loc>
-     <lastmod>2021-03-31</lastmod>
+     <lastmod>2021-04-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://heart2021.uni-paderborn.de/keynotes/</loc>
+     <lastmod>2021-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://heart2021.uni-paderborn.de/contact/</loc>
-     <lastmod>2021-03-31</lastmod>
+     <lastmod>2021-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://heart2021.uni-paderborn.de/impressum/</loc>
-     <lastmod>2021-03-31</lastmod>
+     <lastmod>2021-04-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

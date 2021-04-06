@@ -10,6 +10,7 @@ Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
 # Latest Updates
 
+* 2021-04-06 Announced [**keynote by Kosuke Tatsumura**](keynotes.md) on Large-scale combinatorial optimization in real-time systems by FPGA-based accelerators for simulated bifurcation
 * 2021-03-31 Third [special session](special-sessions.md) on "FPGAs for HPC: Open Challenges for Infrastructure and System Operation" announced
 * 2021-03-23 Two [special sessions](special-sessions.md) announced
 * **2021-03-15 Extended deadlines**
@@ -24,7 +25,8 @@ The eleventh edition of HEART will take place as a virtual conference. The sympo
 
 # Special Sessions
 
-In addition to the regular scientific paper sessions, HEART'21 will also feature special sessions on specific topics. So far, the following special sessions have been announced:
+In addition to the regular scientific paper sessions, HEART'21 will also feature [special sessions](special-sessions.md) on specific topics. So far, the following special sessions have been announced:
 
 * High-performance Computing / Data Center / Cloud
 * Mobile Systems / Edge Computing / Internet of Things
+* FPGAs for HPC: Open Challenges for Infrastructure and System Operation

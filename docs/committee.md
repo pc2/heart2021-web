@@ -3,7 +3,7 @@
 * **General Chair:** Christian Plessl, Paderborn University
 * **Program Co-Chair:** Paul Chow,  University of Toronto
 * **Program Co-Chair:** Marco Platzner, Paderborn University
-* **Publication Chair:** Ryohei Kobayahi, University of Tsukuba
+* **Publication Chair:** Ryohei Kobayashi, University of Tsukuba
 
 
 # Special Session Chairs

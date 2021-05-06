@@ -3,6 +3,17 @@
 * **General Chair:** Christian Plessl, Paderborn University
 * **Program Co-Chair:** Paul Chow,  University of Toronto
 * **Program Co-Chair:** Marco Platzner, Paderborn University
+* **Publication Chair:** Ryohei Kobayahi, University of Tsukuba
+
+
+# Special Session Chairs
+
+* Ihsen Alouani (Universityé Polytechnique Hauts-de-France)
+* Holger Fröning, Heidelberg University
+* Smail Niar, Université Polytechnique Hauts-de-France
+* Kentaro Sano, Riken R-CCS
+* Tomohiro Ueno, Riken R-CCS
+* Felix Zahn, CERN
 
 <!--
 * **Publicity Chair:** Kentaro Sano, Riken R-CCS

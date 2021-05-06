@@ -1,6 +1,6 @@
 # Keynote Speakers
 
-## Kosuke Tatsumura, Chief Research Scientist Corporate Research and Development Center, Toshiba Corporation##
+## Kosuke Tatsumura, Chief Research Scientist, Corporate Research and Development Center, Toshiba Corporation##
 
 ### Large-scale combinatorial optimization in real-time systems by FPGA-based accelerators for simulated bifurcation
 

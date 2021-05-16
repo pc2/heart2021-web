@@ -61,3 +61,4 @@ To be announced
 * Christian Plessl, Paderborn University (General Chair)
 * Paul Chow, University of Toronto (Program Co-Chair)
 * Platzner Marco, Paderborn University (Program Co-Chair)
+* Ryohei Kobayashi, University of Tsukuba (Publication Chair)

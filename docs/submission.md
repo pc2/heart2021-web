@@ -4,7 +4,7 @@
 
 * Paper submission (all categories): **March 31, 2021 AOE (extended)**
 * Acceptance notification: **May 6, 2021 (extended)**
-* Final paper submission: **May 17, 2021**
+* Final paper submission: ** To be announced **
 * HEART symposium: **June 21-23, 2021**
 
 ## Format & anonymity

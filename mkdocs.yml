@@ -1,0 +1,37 @@
+site_name: HEART 2021 Virtual Conference
+site_description: "HEART 2021"
+site_url: https://heart2021.uni-paderborn.de
+site_dir: site
+
+nav:
+        - Home: index.md
+        - Call for Papers: cfp.md
+        - Committees: committee.md
+        - Submission: submission.md
+        - Special Sessions: special-sessions.md
+#        - Program: program.md
+        - Keynotes: keynotes.md
+#        - Tutorials: tutorials.md
+        - Contact: contact.md
+        - Site notice: impressum.md  
+
+
+theme:
+        name: null
+        custom_dir: material
+        feature:
+                tabs: false
+        favicon: 'img/heart-online-logo_white.ico'
+        logo: 'img/heart-online-logo_white.png'
+        language: en
+        font:
+                text: Roboto
+                code: Roboto Mono
+        palette:
+                primary: upbprimary
+                accent: upbaccent
+plugins: []
+markdown_extensions: []
+remote_branch: deployment
+
+

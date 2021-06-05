@@ -9,9 +9,9 @@ nav:
         - Committees: committee.md
         - Submission: submission.md
         - Special Sessions: special-sessions.md
-#        - Program: program.md
+        - Program: "https://events.uni-paderborn.de/event/119/timetable/"
         - Keynotes: keynotes.md
-#        - Tutorials: tutorials.md
+        - Registration: registration.md
         - Contact: contact.md
         - Site notice: impressum.md  
 

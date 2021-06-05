@@ -18,10 +18,10 @@ We are happy to announce the [HEART'21 Virtual Conference Program](https://event
 
 In addition, we will have three [special sessions](special-sessions.md) on current hot topics:
 
-* [Special Session 1: FPGAs for HPC: Open Challenges for Infrastructure and System Operation](https://events.uni-paderborn.de/event/119/timetable/#b-99-special-session-fpgas-for)
+* [Special Session 1: FPGAs for HPC: Open Challenges for Infrastructure and System Operation](https://events.uni-paderborn.de/event/119/timetable/#b-99-special-session-fpgas-for)  
 Chairs: Kentaro Sano (RIKEN), Tomohiro Ueno (RIKEN)
 
-* [Special Session 2: "High-performance Computing: Open Challenges as a Result of the Growing User-Hardware Gap](https://events.uni-paderborn.de/event/119/timetable/#b-98-special-session-high-perf)
+* [Special Session 2: "High-performance Computing: Open Challenges as a Result of the Growing User-Hardware Gap](https://events.uni-paderborn.de/event/119/timetable/#b-98-special-session-high-perf)  
 Chairs: Holger Fröning (Universität Heidelberg),  Felix Zahn (CERN)
 
 * [Special Session 3: "Mobile Systems / Edge Computing / Internet of Things"](https://events.uni-paderborn.de/event/119/timetable/#b-97-special-session-mobile-sy)  

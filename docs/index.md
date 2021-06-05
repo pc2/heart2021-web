@@ -10,7 +10,24 @@
 
 Thanks to our generous sponsors, the HEART'21 symposium can be held as a **free online event** for all participants. To attend the conference, a **registration is required** due to legal reasons (privacy policy, etc.). The **registration portal will be open from June 11**.
 
-We have built an attractive [conference program](https://events.uni-paderborn.de/event/119/timetable/) that includes two [keynotes](keynotes.md), 8 regular research talks and a Phd forum with lightning talks. In addition, we will have three [special sessions](special-sessions.md) on current hot topics.
+We have built an attractive [conference program](https://events.uni-paderborn.de/event/119/timetable/) that includes two exciting [keynotes](keynotes.md), 8 regular research talks and a Phd forum with lightning talks. 
+
+* [Keynote 1: Large-scale combinatorial optimization in real-time systems by FPGA-based accelerators for simulated bifurcation](https://events.uni-paderborn.de/event/119/timetable/#5-keynote-large-scale-combinat)
+**Kosuke Tatsumura**, Chief Research Scientist, Corporate Research and Development Center, Toshiba Corporation
+
+* [Keynote 2: Portable high-performance Python on CPUs, GPUs, and FPGAs](https://events.uni-paderborn.de/event/119/timetable/#8-keynote-portable-high-perfor)
+**Torsten Hoefler**, ETH Zurich
+
+In addition, we will have three [special sessions](special-sessions.md) on current hot topics:
+
+* [Special Session 1: FPGAs for HPC: Open Challenges for Infrastructure and System Operation](https://events.uni-paderborn.de/event/119/timetable/#b-99-special-session-fpgas-for)
+Chairs: Kentaro Sano (RIKEN), Tomohiro Ueno (RIKEN)
+
+* [Special Session 2: "High-performance Computing: Open Challenges as a Result of the Growing User-Hardware Gap](https://events.uni-paderborn.de/event/119/timetable/#b-98-special-session-high-perf)
+Chairs: Holger Fröning (Universität Heidelberg),  Felix Zahn (CERN)
+
+* [Special Session 3: "Mobile Systems / Edge Computing / Internet of Things"](https://events.uni-paderborn.de/event/119/timetable/#b-97-special-session-mobile-sy)  
+Chairs: Smail Niar (Universityé Polytechnique Hauts-de-France),  Ihsen Alouani (Universityé Polytechnique Hauts-de-France)
 
 To facilitate informal discussions between participants we will provide an interactive [Gather.town](https://gather.town) space to socialize in the conference breaks.
 

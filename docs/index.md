@@ -8,9 +8,7 @@
 <div style="text-align: right; font-size: medium;">Follow us on Twitter: <a href="https://twitter.com/heart_symp">@heart_symp</a></div>
 
 
-Thanks to our generous sponsors, the HEART'21 symposium can be held as a **free online event** for all participants. To attend the conference, a **registration is required** due to legal reasons (privacy policy, etc.). The **registration portal will be open from June 11**.
-
-We have built an attractive [conference program](https://events.uni-paderborn.de/event/119/timetable/) that includes two exciting [keynotes](keynotes.md), 8 regular research talks and a Phd forum with lightning talks. 
+We are happy to announce the [HEART'21 Virtual Conference Program](https://events.uni-paderborn.de/event/119/timetable/) that includes two exciting [keynotes](keynotes.md), 8 regular research talks and a Phd forum with lightning talks and a virtual poster session.
 
 * [Keynote 1: Large-scale combinatorial optimization in real-time systems by FPGA-based accelerators for simulated bifurcation](https://events.uni-paderborn.de/event/119/timetable/#5-keynote-large-scale-combinat)
 **Kosuke Tatsumura**, Chief Research Scientist, Corporate Research and Development Center, Toshiba Corporation
@@ -30,6 +28,8 @@ Chairs: Holger Fröning (Universität Heidelberg),  Felix Zahn (CERN)
 Chairs: Smail Niar (Universityé Polytechnique Hauts-de-France),  Ihsen Alouani (Universityé Polytechnique Hauts-de-France)
 
 To facilitate informal discussions between participants we will provide an interactive [Gather.town](https://gather.town) space to socialize in the conference breaks.
+
+Thanks to our generous sponsors, the HEART'21 symposium can be held as a **free online event** for all participants. To attend the conference, a **registration is required** due to legal reasons (privacy policy, etc.). The **registration portal will be open from June 11**.
 
 # Overview
 

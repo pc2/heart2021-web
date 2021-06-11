@@ -39,6 +39,7 @@ The eleventh edition of HEART will take place as a virtual conference. The sympo
 
 ### Latest Updates
 
+* 2021-06-11 We have to delay the opening of the registration site to Tuesday, 15 June.
 * 2021-06-05 Announcing that HEART'21 will be a free event, call for participation is published
 * 2021-06-05 [Conference program](https://events.uni-paderborn.de/event/119/timetable/) is now available.
 * 2021-06-02 Announced [keynote by Torsten Hoefler](keynotes.md) on Portable high-performance Python on CPUs, GPUs, and FPGAs

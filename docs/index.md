@@ -39,6 +39,8 @@ The eleventh edition of HEART will take place as a virtual conference. The sympo
 
 ### Latest Updates
 
+* 2021-06-24 [HEART'22](https://heart.lila.cs.tsukuba.ac.jp/home/heart2022/) will be held at University of Tsukuba. 
+* 2021-06-23 The best paper award for HEART'21 is awarded to Jieming Xu and Miriam Leeser for their paper [Accelerating Matrix Processing for MIMO Systems](https://doi.org/10.1145/3468044.3468050)
 * 2021-06-14 The registration portal is open now. You can [register now](https://events.uni-paderborn.de/event/119/registrations/) to attend the event.
 * 2021-06-11 We have to delay the opening of the registration site approximately to Tuesday, 15 June.
 * 2021-06-05 Announcing that HEART'21 will be a free event, call for participation is published
